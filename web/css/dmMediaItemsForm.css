@@ -1,0 +1,56 @@
+.dm_widget_multimedia_images_grid_form #tabs-images div.item-list {
+    height: 400px;
+    overflow: auto;
+}
+.dm_widget_multimedia_images_grid_form .media-items-template {
+    padding: 4px;
+    margin: 1px;
+}
+.dm_widget_multimedia_images_grid_form .media-items-template.even {
+    background-color: #F4F8FD;
+}
+.dm_widget_multimedia_images_grid_form .media-items-template.odd {
+    background-color: #EEE;
+}
+
+.dm_widget_multimedia_images_grid_form .media-items-template .media-preview img {
+    border: solid 5px #fff;
+    margin: 2px;
+}
+.dm_widget_multimedia_images_grid_form .media-items-template .media-box {
+    position: relative;
+}
+.dm_widget_multimedia_images_grid_form .media-items-template .media-box .remove-thick {
+    width: 29px;
+    height: 29px;
+    position: absolute;
+    left: -1px;
+    top: -4px;
+    display: inline;
+    z-index: 20000;
+    cursor: pointer;
+}
+
+.dm_widget_multimedia_images_grid_form .media-items-template table {
+    width: 100%;
+}
+
+.dm_widget_multimedia_images_grid_form .media-items-template .media-item table tr td.media-box {
+    width: 150px;
+    padding-left: 5px;
+}
+.dm_widget_multimedia_images_grid_form .media-items-template .media-item table tr td table tr td.label {
+    width: 35%;
+}
+.dm_widget_multimedia_images_grid_form .media-items-template .media-item table tr td table tr td.field {
+    width: 65%;
+}
+.dm_widget_multimedia_images_grid_form .media-items-template .media-item table tr td table tr td.field input[type=text] {
+    width: 97%;
+}
+.dm_widget_multimedia_images_grid_form #tabs-images .errors.error {
+    min-height: 16px;
+    background: url('/dmCorePlugin/images/16/error.png') top left no-repeat;
+    padding-left: 18px;
+    color: #BE1111;
+}

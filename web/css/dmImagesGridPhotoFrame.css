@@ -1,0 +1,36 @@
+.dmImagesGridTemplatePhotoFrame {
+    
+}
+
+.dmImagesGridTemplatePhotoFramedmImagesGridStyleGrid {
+    
+}
+
+.dmImagesGridTemplatePhotoFrame.dmImagesGridStyleGrid .dmImagesGridImageContainer {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.dmImagesGridTemplatePhotoFrame.dmImagesGridStyleVertical {
+    margin-bottom: 5px;
+}
+
+.dmImagesGridTemplatePhotoFrame.dmImagesGridStyleHorizontal .dmImagesGridImageContainer {
+    float: left;
+    margin-right: 10px;
+}
+
+.dmImagesGridTemplatePhotoFrame .dmImagesGridImage {
+    text-align: center;
+    padding: 0px;
+    clear: both;
+}
+.dmImagesGridTemplatePhotoFrame .dmImagesGridImage img {
+    border: solid 10px #000;
+}
+
+.dmImagesGridTemplatePhotoFrame .dmImagesGridTitle {
+    text-align: center;
+    
+}

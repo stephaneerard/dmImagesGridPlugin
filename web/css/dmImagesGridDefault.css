@@ -1,0 +1,31 @@
+.dmImagesGridTemplateDefault {
+    
+}
+
+.dmImagesGridTemplateDefault.dmImagesGridStyleGrid {
+    
+}
+
+.dmImagesGridTemplateDefault.dmImagesGridStyleGrid .dmImagesGridImageContainer {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.dmImagesGridTemplateDefault.dmImagesGridStyleVertical {
+    margin-bottom: 5px;
+}
+
+.dmImagesGridTemplateDefault.dmImagesGridStyleHorizontal .dmImagesGridImageContainer {
+    float: left;
+    margin-right: 10px;
+}
+
+.dmImagesGridTemplateDefault .dmImagesGridImage {
+    text-align: center;
+}
+
+.dmImagesGridTemplateDefault .dmImagesGridTitle {
+    text-align: center;
+    
+}

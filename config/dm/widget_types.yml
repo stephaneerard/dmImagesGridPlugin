@@ -1,0 +1,7 @@
+dmWidgetMultimedia:
+
+  ImagesGrid:
+    cache:              true
+    public_name:        Images Grid
+    form_class:         dmMediaItemsForm
+    view_class:         dmMediaItemsView
