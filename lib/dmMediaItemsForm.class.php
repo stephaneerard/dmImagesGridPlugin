@@ -278,4 +278,3 @@ class dmMediaItemsForm extends dmBehaviorableForm {
 
 }
 
-?>

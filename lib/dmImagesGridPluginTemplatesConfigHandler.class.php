@@ -21,4 +21,3 @@ class dmImagesGridPluginTemplatesConfigHandler extends sfYamlConfigHandler {
 
 }
 
-?>

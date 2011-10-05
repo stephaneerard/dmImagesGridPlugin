@@ -114,5 +114,3 @@ class dmMediaItemsView extends dmBehaviorableView {
     }
     
 }
-
-?>

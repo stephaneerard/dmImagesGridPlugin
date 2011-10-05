@@ -220,4 +220,3 @@ class dmMediaItemValidator extends sfValidatorBase {
     
 }
 
-?>
